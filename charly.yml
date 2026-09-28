@@ -1,7 +1,5 @@
-version: 2026.232.0520
 notebook-llm-on-supercomputers:
     candy:
-        version: 2026.144.1443
         description: |
             LLMs on Supercomputers course notebooks (TU Wien AI Factory Austria)
             Provisions the full TU Wien AI Factory Austria "LLMs on
