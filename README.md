@@ -43,6 +43,7 @@ Compose the layer by pinning this repo in a box's `candy:` list — for example 
 ```yaml
 jupyter-ml-notebook:
   candy:
+    # the named box's value is the box BODY; `base:` and the `candy:` list are its keys
     base: fedora-nonfree
     candy:
       - '@github.com/opencharly/layer-notebook-llm-on-supercomputers:v2026.240.0119'
