@@ -107,9 +107,6 @@ The same `importlib.reload(ollama)` pattern from `/charly-jupyter:notebook-ollam
 - D1 series: `hf.co/NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF:Q4_K_M`
 - D2 series: `llama3.2:latest`
 
-## Used In Boxes
-
-
 ## Related Skills
 
 - `/charly-image:layer` — data field documentation and candy authoring rules
